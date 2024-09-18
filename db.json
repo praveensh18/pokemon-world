@@ -1,0 +1,6237 @@
+{
+  "pokemons": [
+    {
+      "id": "1",
+      "like": 11,
+      "name": "Bulbasaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Vine Whip",
+          "type": "Grass"
+        },
+        {
+          "name": "Poison Powder",
+          "type": "Poison"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Special attack": 65,
+        "Special defense": 65,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "2",
+      "like": 15,
+      "name": "Ivysaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Razor Leaf",
+          "type": "Grass"
+        },
+        {
+          "name": "Leech Seed",
+          "type": "Grass"
+        },
+        {
+          "name": "Growl",
+          "type": "Normal"
+        },
+        {
+          "name": "Take Down",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Special attack": 80,
+        "Special defense": 80,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "3",
+      "like": 7,
+      "name": "Venusaur",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Solar Beam",
+          "type": "Grass"
+        },
+        {
+          "name": "Sweet Scent",
+          "type": "Normal"
+        },
+        {
+          "name": "Petal Dance",
+          "type": "Grass"
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Special attack": 100,
+        "Special defense": 100,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "4",
+      "like": 2,
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Dragon Rage",
+          "type": "Dragon"
+        },
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Special attack": 60,
+        "Special defense": 50,
+        "Speed": 65
+      }
+    },
+    {
+      "id": "5",
+      "like": 12,
+      "name": "Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire"
+        },
+        {
+          "name": "SmokeScreen",
+          "type": "Normal"
+        },
+        {
+          "name": "Dragon Claw",
+          "type": "Dragon"
+        },
+        {
+          "name": "Slash",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Special attack": 80,
+        "Special defense": 65,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "6",
+      "like": 0,
+      "name": "Charizard",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire"
+        },
+        {
+          "name": "Wing Attack",
+          "type": "Flying"
+        },
+        {
+          "name": "Sky Drop",
+          "type": "Flying"
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Special attack": 109,
+        "Special defense": 85,
+        "Speed": 100
+      }
+    },
+    {
+      "id": "7",
+      "like": 0,
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Bubble",
+          "type": "Water"
+        },
+        {
+          "name": "Withdraw",
+          "type": "Water"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Aqua Tail",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Special attack": 50,
+        "Special defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": "8",
+      "like": 0,
+      "name": "Wartortle",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Skull Bash",
+          "type": "Normal"
+        },
+        {
+          "name": "Rain Dance",
+          "type": "Water"
+        },
+        {
+          "name": "Mega Punch",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Special attack": 65,
+        "Special defense": 80,
+        "Speed": 58
+      }
+    },
+    {
+      "id": "9",
+      "like": 0,
+      "name": "Blastoise",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water"
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice"
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Special attack": 85,
+        "Special defense": 105,
+        "Speed": 78
+      }
+    },
+    {
+      "id": "10",
+      "like": 0,
+      "name": "Caterpie",
+      "types": [
+        "Bug"
+      ],
+      "moves": [
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug"
+        },
+        {
+          "name": "Poison Sting",
+          "type": "Poison"
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug"
+        }
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Special attack": 20,
+        "Special defense": 20,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "11",
+      "like": 0,
+      "name": "Metapod",
+      "types": [
+        "Bug"
+      ],
+      "moves": [
+        {
+          "name": "Harden",
+          "type": "Normal"
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug"
+        },
+        {
+          "name": "Iron Defense",
+          "type": "Steel"
+        },
+        {
+          "name": "Bug Bite",
+          "type": "Bug"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Special attack": 25,
+        "Special defense": 25,
+        "Speed": 30
+      }
+    },
+    {
+      "id": "12",
+      "like": 0,
+      "name": "Butterfree",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Gust",
+          "type": "Flying"
+        },
+        {
+          "name": "Psybeam",
+          "type": "Psychic"
+        },
+        {
+          "name": "Silver Wind",
+          "type": "Bug"
+        },
+        {
+          "name": "Quiver Dance",
+          "type": "Bug"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Special attack": 90,
+        "Special defense": 80,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "13",
+      "like": 0,
+      "name": "Weedle",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison"
+        },
+        {
+          "name": "String Shot",
+          "type": "Bug"
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug"
+        },
+        {
+          "name": "Harden",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Special attack": 20,
+        "Special defense": 20,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "14",
+      "like": 0,
+      "name": "Kakuna",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug"
+        },
+        {
+          "name": "Poison Powder",
+          "type": "Poison"
+        }
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Special attack": 25,
+        "Special defense": 25,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "15",
+      "like": 0,
+      "name": "Beedrill",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Twineedle",
+          "type": "Bug"
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal"
+        },
+        {
+          "name": "X-Scissor",
+          "type": "Bug"
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "Special attack": 45,
+        "Special defense": 80,
+        "Speed": 75
+      }
+    },
+    {
+      "id": "16",
+      "like": 0,
+      "name": "Pidgey",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Gust",
+          "type": "Flying"
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Double Team",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Special attack": 35,
+        "Special defense": 35,
+        "Speed": 56
+      }
+    },
+    {
+      "id": "17",
+      "like": 0,
+      "name": "Pidgeotto",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Aerial Ace",
+          "type": "Flying"
+        },
+        {
+          "name": "Mirror Move",
+          "type": "Flying"
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Special attack": 50,
+        "Special defense": 50,
+        "Speed": 71
+      }
+    },
+    {
+      "id": "18",
+      "like": 0,
+      "name": "Pidgeot",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Sky Attack",
+          "type": "Flying"
+        },
+        {
+          "name": "Roost",
+          "type": "Flying"
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Special attack": 70,
+        "Special defense": 70,
+        "Speed": 101
+      }
+    },
+    {
+      "id": "19",
+      "like": 0,
+      "name": "Rattata",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Hyper Fang",
+          "type": "Normal"
+        },
+        {
+          "name": "Focus Energy",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Special attack": 25,
+        "Special defense": 35,
+        "Speed": 72
+      }
+    },
+    {
+      "id": "20",
+      "like": 0,
+      "name": "Raticate",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Super Fang",
+          "type": "Normal"
+        },
+        {
+          "name": "Scary Face",
+          "type": "Normal"
+        },
+        {
+          "name": "Sucker Punch",
+          "type": "Dark"
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Special attack": 50,
+        "Special defense": 70,
+        "Speed": 97
+      }
+    },
+    {
+      "id": "21",
+      "like": 0,
+      "name": "Spearow",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Sand Attack",
+          "type": "Ground"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Drill Peck",
+          "type": "Flying"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Special attack": 31,
+        "Special defense": 31,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "22",
+      "like": 0,
+      "name": "Fearow",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Mirror Move",
+          "type": "Flying"
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Roost",
+          "type": "Flying"
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Special attack": 61,
+        "Special defense": 61,
+        "Speed": 100
+      }
+    },
+    {
+      "id": "23",
+      "like": 0,
+      "name": "Ekans",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Wrap",
+          "type": "Normal"
+        },
+        {
+          "name": "Poison Sting",
+          "type": "Poison"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Glare",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Special attack": 40,
+        "Special defense": 54,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "24",
+      "like": 0,
+      "name": "Arbok",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Acid",
+          "type": "Poison"
+        },
+        {
+          "name": "Screech",
+          "type": "Normal"
+        },
+        {
+          "name": "Stockpile",
+          "type": "Normal"
+        },
+        {
+          "name": "Gunk Shot",
+          "type": "Poison"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "Special attack": 65,
+        "Special defense": 79,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "25",
+      "like": 0,
+      "name": "Pikachu",
+      "types": [
+        "Electric"
+      ],
+      "moves": [
+        {
+          "name": "Thunder Shock",
+          "type": "Electric"
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric"
+        },
+        {
+          "name": "Iron Tail",
+          "type": "Steel"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Special attack": 50,
+        "Special defense": 50,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "26",
+      "like": 0,
+      "name": "Raichu",
+      "types": [
+        "Electric"
+      ],
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Double Team",
+          "type": "Normal"
+        },
+        {
+          "name": "Focus Punch",
+          "type": "Fighting"
+        },
+        {
+          "name": "Volt Tackle",
+          "type": "Electric"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Special attack": 90,
+        "Special defense": 80,
+        "Speed": 110
+      }
+    },
+    {
+      "id": "27",
+      "like": 0,
+      "name": "Sandshrew",
+      "types": [
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Sand Attack",
+          "type": "Ground"
+        },
+        {
+          "name": "Dig",
+          "type": "Ground"
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Special attack": 20,
+        "Special defense": 30,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "28",
+      "like": 4,
+      "name": "Sandslash",
+      "types": [
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        },
+        {
+          "name": "Sand Tomb",
+          "type": "Ground"
+        },
+        {
+          "name": "Fury Swipes",
+          "type": "Normal"
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Special attack": 45,
+        "Special defense": 55,
+        "Speed": 65
+      }
+    },
+    {
+      "id": "29",
+      "like": 0,
+      "name": "Nidoran♀",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Poison Sting",
+          "type": "Poison"
+        },
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Double Kick",
+          "type": "Fighting"
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Special attack": 40,
+        "Special defense": 40,
+        "Speed": 41
+      }
+    },
+    {
+      "id": "30",
+      "like": 0,
+      "name": "Nidorina",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Poison Fang",
+          "type": "Poison"
+        },
+        {
+          "name": "Charm",
+          "type": "Fairy"
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison"
+        }
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Special attack": 55,
+        "Special defense": 55,
+        "Speed": 56
+      }
+    },
+    {
+      "id": "31",
+      "like": 0,
+      "name": "Nidoqueen",
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Body Slam",
+          "type": "Normal"
+        },
+        {
+          "name": "Earth Power",
+          "type": "Ground"
+        },
+        {
+          "name": "Superpower",
+          "type": "Fighting"
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 87,
+        "Special attack": 75,
+        "Special defense": 85,
+        "Speed": 76
+      }
+    },
+    {
+      "id": "32",
+      "like": 0,
+      "name": "Nidoran♂",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Poison Sting",
+          "type": "Poison"
+        },
+        {
+          "name": "Focus Energy",
+          "type": "Normal"
+        },
+        {
+          "name": "Double Kick",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Special attack": 40,
+        "Special defense": 40,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "33",
+      "like": 0,
+      "name": "Nidorino",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Horn Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Poison Jab",
+          "type": "Poison"
+        },
+        {
+          "name": "Charm",
+          "type": "Fairy"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Special attack": 55,
+        "Special defense": 55,
+        "Speed": 65
+      }
+    },
+    {
+      "id": "34",
+      "like": 0,
+      "name": "Nidoking",
+      "types": [
+        "Poison",
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Thrash",
+          "type": "Normal"
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug"
+        },
+        {
+          "name": "Dragon Tail",
+          "type": "Dragon"
+        }
+      ],
+      "base": {
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 77,
+        "Special attack": 85,
+        "Special defense": 75,
+        "Speed": 85
+      }
+    },
+    {
+      "id": "35",
+      "like": 0,
+      "name": "Clefairy",
+      "types": [
+        "Fairy"
+      ],
+      "moves": [
+        {
+          "name": "Pound",
+          "type": "Normal"
+        },
+        {
+          "name": "Sing",
+          "type": "Normal"
+        },
+        {
+          "name": "Double Slap",
+          "type": "Normal"
+        },
+        {
+          "name": "Metronome",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Special attack": 60,
+        "Special defense": 65,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "36",
+      "like": 0,
+      "name": "Clefable",
+      "types": [
+        "Fairy"
+      ],
+      "moves": [
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy"
+        },
+        {
+          "name": "Moonblast",
+          "type": "Fairy"
+        },
+        {
+          "name": "Charm",
+          "type": "Fairy"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Special attack": 95,
+        "Special defense": 90,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "37",
+      "like": 0,
+      "name": "Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire"
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Will-O-Wisp",
+          "type": "Fire"
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Special attack": 50,
+        "Special defense": 65,
+        "Speed": 65
+      }
+    },
+    {
+      "id": "38",
+      "like": 0,
+      "name": "Ninetales",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Fire Spin",
+          "type": "Fire"
+        },
+        {
+          "name": "Extrasensory",
+          "type": "Psychic"
+        },
+        {
+          "name": "Flame Burst",
+          "type": "Fire"
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost"
+        }
+      ],
+      "base": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Special attack": 81,
+        "Special defense": 100,
+        "Speed": 100
+      }
+    },
+    {
+      "id": "39",
+      "like": 0,
+      "name": "Jigglypuff",
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "moves": [
+        {
+          "name": "Sing",
+          "type": "Normal"
+        },
+        {
+          "name": "Defense Curl",
+          "type": "Normal"
+        },
+        {
+          "name": "Double Slap",
+          "type": "Normal"
+        },
+        {
+          "name": "Dazzling Gleam",
+          "type": "Fairy"
+        }
+      ],
+      "base": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Special attack": 45,
+        "Special defense": 25,
+        "Speed": 20
+      }
+    },
+    {
+      "id": "40",
+      "like": 0,
+      "name": "Wigglytuff",
+      "types": [
+        "Normal",
+        "Fairy"
+      ],
+      "moves": [
+        {
+          "name": "Hyper Voice",
+          "type": "Normal"
+        },
+        {
+          "name": "Sweet Kiss",
+          "type": "Fairy"
+        },
+        {
+          "name": "Draining Kiss",
+          "type": "Fairy"
+        },
+        {
+          "name": "Light Screen",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Special attack": 85,
+        "Special defense": 50,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "41",
+      "like": 0,
+      "name": "Zubat",
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug"
+        },
+        {
+          "name": "Haze",
+          "type": "Ice"
+        },
+        {
+          "name": "Wing Attack",
+          "type": "Flying"
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Special attack": 30,
+        "Special defense": 40,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "42",
+      "like": 0,
+      "name": "Golbat",
+      "types": [
+        "Poison",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Air Slash",
+          "type": "Flying"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Venoshock",
+          "type": "Poison"
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost"
+        }
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Special attack": 65,
+        "Special defense": 75,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "43",
+      "like": 0,
+      "name": "Oddish",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Absorb",
+          "type": "Grass"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Poison Powder",
+          "type": "Poison"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Special attack": 75,
+        "Special defense": 65,
+        "Speed": 30
+      }
+    },
+    {
+      "id": "44",
+      "like": 0,
+      "name": "Gloom",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Mega Drain",
+          "type": "Grass"
+        },
+        {
+          "name": "Sweet Scent",
+          "type": "Normal"
+        },
+        {
+          "name": "Toxic",
+          "type": "Poison"
+        },
+        {
+          "name": "Giga Drain",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Special attack": 85,
+        "Special defense": 75,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "45",
+      "like": 0,
+      "name": "Vileplume",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Petal Dance",
+          "type": "Grass"
+        },
+        {
+          "name": "Synthesis",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        },
+        {
+          "name": "Petal Blizzard",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Special attack": 110,
+        "Special defense": 90,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "46",
+      "like": 0,
+      "name": "Paras",
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Leech Life",
+          "type": "Bug"
+        },
+        {
+          "name": "Fury Cutter",
+          "type": "Bug"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Special attack": 45,
+        "Special defense": 55,
+        "Speed": 25
+      }
+    },
+    {
+      "id": "47",
+      "like": 0,
+      "name": "Parasect",
+      "types": [
+        "Bug",
+        "Grass"
+      ],
+      "moves": [
+        {
+          "name": "Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Slash",
+          "type": "Normal"
+        },
+        {
+          "name": "X-Scissor",
+          "type": "Bug"
+        },
+        {
+          "name": "Aromatherapy",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Special attack": 60,
+        "Special defense": 80,
+        "Speed": 30
+      }
+    },
+    {
+      "id": "48",
+      "like": 0,
+      "name": "Venonat",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Leech Life",
+          "type": "Bug"
+        },
+        {
+          "name": "Poison Powder",
+          "type": "Poison"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Special attack": 40,
+        "Special defense": 55,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "49",
+      "like": 0,
+      "name": "Venomoth",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Gust",
+          "type": "Flying"
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal"
+        },
+        {
+          "name": "Whirlwind",
+          "type": "Normal"
+        },
+        {
+          "name": "Bug Buzz",
+          "type": "Bug"
+        }
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Special attack": 90,
+        "Special defense": 75,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "50",
+      "like": 0,
+      "name": "Diglett",
+      "types": [
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Growl",
+          "type": "Normal"
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground"
+        },
+        {
+          "name": "Dig",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Special attack": 35,
+        "Special defense": 45,
+        "Speed": 95
+      }
+    },
+    {
+      "id": "51",
+      "like": 0,
+      "name": "Dugtrio",
+      "types": [
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        },
+        {
+          "name": "Sandstorm",
+          "type": "Rock"
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Drill Run",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Special attack": 50,
+        "Special defense": 70,
+        "Speed": 120
+      }
+    },
+    {
+      "id": "52",
+      "like": 0,
+      "name": "Meowth",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Growl",
+          "type": "Normal"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Fake Out",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Special attack": 40,
+        "Special defense": 40,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "53",
+      "like": 0,
+      "name": "Persian",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Pay Day",
+          "type": "Normal"
+        },
+        {
+          "name": "Feint Attack",
+          "type": "Dark"
+        },
+        {
+          "name": "Play Rough",
+          "type": "Fairy"
+        },
+        {
+          "name": "Power Gem",
+          "type": "Rock"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Special attack": 65,
+        "Special defense": 65,
+        "Speed": 115
+      }
+    },
+    {
+      "id": "54",
+      "like": 0,
+      "name": "Psyduck",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal"
+        },
+        {
+          "name": "Disable",
+          "type": "Normal"
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Special attack": 65,
+        "Special defense": 50,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "55",
+      "like": 0,
+      "name": "Golduck",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost"
+        },
+        {
+          "name": "Drill Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Aqua Ring",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Special attack": 95,
+        "Special defense": 80,
+        "Speed": 85
+      }
+    },
+    {
+      "id": "56",
+      "like": 0,
+      "name": "Mankey",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting"
+        },
+        {
+          "name": "Karate Chop",
+          "type": "Fighting"
+        },
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Special attack": 35,
+        "Special defense": 45,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "57",
+      "like": 0,
+      "name": "Primeape",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Cross Chop",
+          "type": "Fighting"
+        },
+        {
+          "name": "Scary Face",
+          "type": "Normal"
+        },
+        {
+          "name": "Thrash",
+          "type": "Normal"
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Special attack": 60,
+        "Special defense": 70,
+        "Speed": 95
+      }
+    },
+    {
+      "id": "58",
+      "like": 0,
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire"
+        },
+        {
+          "name": "Roar",
+          "type": "Normal"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Flame Wheel",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Special attack": 70,
+        "Special defense": 50,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "59",
+      "like": 0,
+      "name": "Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "type": "Fire"
+        },
+        {
+          "name": "Extreme Speed",
+          "type": "Normal"
+        },
+        {
+          "name": "Crunch",
+          "type": "Dark"
+        },
+        {
+          "name": "Fire Fang",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Special attack": 100,
+        "Special defense": 80,
+        "Speed": 95
+      }
+    },
+    {
+      "id": "60",
+      "like": 0,
+      "name": "Poliwag",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Water Pulse",
+          "type": "Water"
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Special attack": 40,
+        "Special defense": 40,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "61",
+      "like": 0,
+      "name": "Poliwhirl",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water"
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Mud Bomb",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Special attack": 50,
+        "Special defense": 50,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "62",
+      "like": 0,
+      "name": "Poliwrath",
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        },
+        {
+          "name": "Hydro Cannon",
+          "type": "Water"
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Brick Break",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 95,
+        "Special attack": 70,
+        "Special defense": 90,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "63",
+      "like": 0,
+      "name": "Abra",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Teleport",
+          "type": "Psychic"
+        },
+        {
+          "name": "Kinesis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic"
+        },
+        {
+          "name": "Disable",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Special attack": 105,
+        "Special defense": 55,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "64",
+      "like": 0,
+      "name": "Kadabra",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Psybeam",
+          "type": "Psychic"
+        },
+        {
+          "name": "Reflect",
+          "type": "Psychic"
+        },
+        {
+          "name": "Recover",
+          "type": "Normal"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Special attack": 120,
+        "Special defense": 70,
+        "Speed": 105
+      }
+    },
+    {
+      "id": "65",
+      "like": 0,
+      "name": "Alakazam",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        },
+        {
+          "name": "Calm Mind",
+          "type": "Psychic"
+        },
+        {
+          "name": "Future Sight",
+          "type": "Psychic"
+        },
+        {
+          "name": "Recover",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Special attack": 135,
+        "Special defense": 95,
+        "Speed": 120
+      }
+    },
+    {
+      "id": "66",
+      "like": 0,
+      "name": "Machop",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Karate Chop",
+          "type": "Fighting"
+        },
+        {
+          "name": "Low Kick",
+          "type": "Fighting"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Vital Throw",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Special attack": 35,
+        "Special defense": 35,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "67",
+      "like": 0,
+      "name": "Machoke",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Strength",
+          "type": "Normal"
+        },
+        {
+          "name": "Submission",
+          "type": "Fighting"
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting"
+        },
+        {
+          "name": "Seismic Toss",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Special attack": 50,
+        "Special defense": 60,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "68",
+      "like": 0,
+      "name": "Machamp",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Cross Chop",
+          "type": "Fighting"
+        },
+        {
+          "name": "Scary Face",
+          "type": "Normal"
+        },
+        {
+          "name": "Dynamic Punch",
+          "type": "Fighting"
+        },
+        {
+          "name": "Revenge",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Special attack": 65,
+        "Special defense": 85,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "69",
+      "like": 0,
+      "name": "Bellsprout",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Absorb",
+          "type": "Grass"
+        },
+        {
+          "name": "Poison Powder",
+          "type": "Poison"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Special attack": 70,
+        "Special defense": 30,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "70",
+      "like": 0,
+      "name": "Weepinbell",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Acid",
+          "type": "Poison"
+        },
+        {
+          "name": "Sweet Scent",
+          "type": "Normal"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Special attack": 85,
+        "Special defense": 45,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "71",
+      "like": 0,
+      "name": "Victreebel",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Petal Dance",
+          "type": "Grass"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        },
+        {
+          "name": "Moonlight",
+          "type": "Fairy"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Special attack": 100,
+        "Special defense": 70,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "72",
+      "like": 0,
+      "name": "Tentacool",
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Acid",
+          "type": "Poison"
+        },
+        {
+          "name": "Poison Sting [tentative]",
+          "type": "Poison"
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal"
+        },
+        {
+          "name": "Constrict",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Special attack": 50,
+        "Special defense": 100,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "73",
+      "like": 0,
+      "name": "Tentacruel",
+      "types": [
+        "Water",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison"
+        },
+        {
+          "name": "Barrier",
+          "type": "Psychic"
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Special attack": 80,
+        "Special defense": 120,
+        "Speed": 100
+      }
+    },
+    {
+      "id": "74",
+      "like": 0,
+      "name": "Geodude",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        },
+        {
+          "name": "Harden",
+          "type": "Normal"
+        },
+        {
+          "name": "Rock Throw",
+          "type": "Rock"
+        },
+        {
+          "name": "Magnitude",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Special attack": 30,
+        "Special defense": 30,
+        "Speed": 20
+      }
+    },
+    {
+      "id": "75",
+      "like": 0,
+      "name": "Graveler",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        },
+        {
+          "name": "Rock Slide",
+          "type": "Rock"
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal"
+        },
+        {
+          "name": "Stealth Rock",
+          "type": "Rock"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Special attack": 45,
+        "Special defense": 45,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "76",
+      "like": 0,
+      "name": "Golem",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Double-Edge",
+          "type": "Normal"
+        },
+        {
+          "name": "Stone Edge",
+          "type": "Rock"
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 130,
+        "Special attack": 55,
+        "Special defense": 65,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "77",
+      "like": 0,
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire"
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal"
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        },
+        {
+          "name": "Flame Wheel",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Special attack": 65,
+        "Special defense": 65,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "78",
+      "like": 0,
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        },
+        {
+          "name": "Bounce",
+          "type": "Flying"
+        },
+        {
+          "name": "Flare Blitz",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Special attack": 80,
+        "Special defense": 80,
+        "Speed": 105
+      }
+    },
+    {
+      "id": "79",
+      "like": 0,
+      "name": "Slowpoke",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic"
+        },
+        {
+          "name": "Disable",
+          "type": "Normal"
+        },
+        {
+          "name": "Headbutt",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Special attack": 40,
+        "Special defense": 40,
+        "Speed": 15
+      }
+    },
+    {
+      "id": "80",
+      "like": 0,
+      "name": "Slowbro",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic"
+        },
+        {
+          "name": "Surf",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Special attack": 100,
+        "Special defense": 80,
+        "Speed": 30
+      }
+    },
+    {
+      "id": "81",
+      "like": 0,
+      "name": "Magnemite",
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "moves": [
+        {
+          "name": "Thunder Shock",
+          "type": "Electric"
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal"
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric"
+        },
+        {
+          "name": "Spark",
+          "type": "Electric"
+        }
+      ],
+      "base": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Special attack": 95,
+        "Special defense": 55,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "82",
+      "like": 0,
+      "name": "Magneton",
+      "types": [
+        "Electric",
+        "Steel"
+      ],
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Magnet Bomb",
+          "type": "Steel"
+        },
+        {
+          "name": "Tri Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Flash Cannon",
+          "type": "Steel"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Special attack": 120,
+        "Special defense": 70,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "83",
+      "like": 0,
+      "name": "Farfetch'd",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Swords Dance",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 52,
+        "Attack": 90,
+        "Defense": 55,
+        "Special attack": 58,
+        "Special defense": 62,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "84",
+      "like": 0,
+      "name": "Doduo",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Rage",
+          "type": "Normal"
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Tri Attack",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Special attack": 35,
+        "Special defense": 35,
+        "Speed": 75
+      }
+    },
+    {
+      "id": "85",
+      "like": 0,
+      "name": "Dodrio",
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Drill Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        },
+        {
+          "name": "Jump Kick",
+          "type": "Fighting"
+        },
+        {
+          "name": "Brave Bird",
+          "type": "Flying"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Special attack": 60,
+        "Special defense": 60,
+        "Speed": 110
+      }
+    },
+    {
+      "id": "86",
+      "like": 0,
+      "name": "Seel",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "moves": [
+        {
+          "name": "Aurora Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Growl",
+          "type": "Normal"
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Body Slam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Special attack": 45,
+        "Special defense": 70,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "87",
+      "like": 0,
+      "name": "Dewgong",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water"
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic"
+        },
+        {
+          "name": "Sheer Cold",
+          "type": "Ice"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Special attack": 70,
+        "Special defense": 95,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "88",
+      "like": 0,
+      "name": "Grimer",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Sludge",
+          "type": "Poison"
+        },
+        {
+          "name": "Smog",
+          "type": "Poison"
+        },
+        {
+          "name": "Minimize",
+          "type": "Normal"
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Special attack": 40,
+        "Special defense": 50,
+        "Speed": 25
+      }
+    },
+    {
+      "id": "89",
+      "like": 0,
+      "name": "Muk",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison"
+        },
+        {
+          "name": "Haze",
+          "type": "Ice"
+        },
+        {
+          "name": "Screech",
+          "type": "Normal"
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Special attack": 65,
+        "Special defense": 100,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "90",
+      "like": 0,
+      "name": "Shellder",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Bubble",
+          "type": "Water"
+        },
+        {
+          "name": "Withdraw",
+          "type": "Water"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Special attack": 45,
+        "Special defense": 25,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "91",
+      "like": 0,
+      "name": "Cloyster",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "moves": [
+        {
+          "name": "Spike Cannon",
+          "type": "Water"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Special attack": 85,
+        "Special defense": 45,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "92",
+      "like": 0,
+      "name": "Gastly",
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Lick",
+          "type": "Ghost"
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Dream Eater",
+          "type": "Psychic"
+        },
+        {
+          "name": "Night Shade",
+          "type": "Ghost"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Special attack": 100,
+        "Special defense": 35,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "93",
+      "like": 0,
+      "name": "Haunter",
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost"
+        },
+        {
+          "name": "Night Shade",
+          "type": "Ghost"
+        },
+        {
+          "name": "Curse",
+          "type": "Ghost"
+        },
+        {
+          "name": "Shadow Ball",
+          "type": "Ghost"
+        }
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Special attack": 115,
+        "Special defense": 55,
+        "Speed": 95
+      }
+    },
+    {
+      "id": "94",
+      "like": 0,
+      "name": "Gengar",
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Hypnosis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Dream Eater",
+          "type": "Psychic"
+        },
+        {
+          "name": "Shadow Punch",
+          "type": "Ghost"
+        },
+        {
+          "name": "Destiny Bond",
+          "type": "Ghost"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Special attack": 130,
+        "Special defense": 75,
+        "Speed": 110
+      }
+    },
+    {
+      "id": "95",
+      "like": 0,
+      "name": "Onix",
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Rock Throw",
+          "type": "Rock"
+        },
+        {
+          "name": "Harden",
+          "type": "Normal"
+        },
+        {
+          "name": "Bind",
+          "type": "Normal"
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Special attack": 30,
+        "Special defense": 45,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "96",
+      "like": 0,
+      "name": "Drowzee",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Hypnosis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Dream Eater",
+          "type": "Psychic"
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Special attack": 43,
+        "Special defense": 90,
+        "Speed": 42
+      }
+    },
+    {
+      "id": "97",
+      "like": 0,
+      "name": "Hypno",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Hypnosis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Disable",
+          "type": "Normal"
+        },
+        {
+          "name": "Confusion",
+          "type": "Psychic"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Special attack": 73,
+        "Special defense": 115,
+        "Speed": 67
+      }
+    },
+    {
+      "id": "98",
+      "like": 0,
+      "name": "Krabby",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Bubble",
+          "type": "Water"
+        },
+        {
+          "name": "Vice Grip",
+          "type": "Normal"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Special attack": 25,
+        "Special defense": 25,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "99",
+      "like": 0,
+      "name": "Kingler",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Crabhammer",
+          "type": "Water"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Vice Grip",
+          "type": "Normal"
+        },
+        {
+          "name": "Guillotine",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Special attack": 50,
+        "Special defense": 50,
+        "Speed": 75
+      }
+    },
+    {
+      "id": "100",
+      "like": 0,
+      "name": "Voltorb",
+      "types": [
+        "Electric"
+      ],
+      "moves": [
+        {
+          "name": "Charge",
+          "type": "Electric"
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        },
+        {
+          "name": "Sonic Boom",
+          "type": "Normal"
+        },
+        {
+          "name": "Self-Destruct",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Special attack": 55,
+        "Special defense": 55,
+        "Speed": 100
+      }
+    },
+    {
+      "id": "101",
+      "like": 0,
+      "name": "Electrode",
+      "types": [
+        "Electric"
+      ],
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Swift",
+          "type": "Normal"
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal"
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Special attack": 80,
+        "Special defense": 80,
+        "Speed": 150
+      }
+    },
+    {
+      "id": "102",
+      "like": 0,
+      "name": "Exeggcute",
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "type": "Grass"
+        },
+        {
+          "name": "Hypnosis",
+          "type": "Psychic"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Mega Drain",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Special attack": 60,
+        "Special defense": 45,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "103",
+      "like": 0,
+      "name": "Exeggutor",
+      "types": [
+        "Grass",
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        },
+        {
+          "name": "Mega Drain",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Special attack": 125,
+        "Special defense": 75,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "104",
+      "like": 0,
+      "name": "Cubone",
+      "types": [
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Bone Club",
+          "type": "Ground"
+        },
+        {
+          "name": "Growl",
+          "type": "Normal"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Bonemerang",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Special attack": 40,
+        "Special defense": 50,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "105",
+      "like": 0,
+      "name": "Marowak",
+      "types": [
+        "Ground"
+      ],
+      "moves": [
+        {
+          "name": "Focus Energy",
+          "type": "Normal"
+        },
+        {
+          "name": "Bone Rush",
+          "type": "Ground"
+        },
+        {
+          "name": "Thrash",
+          "type": "Normal"
+        },
+        {
+          "name": "Earthquake",
+          "type": "Ground"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Special attack": 50,
+        "Special defense": 80,
+        "Speed": 45
+      }
+    },
+    {
+      "id": "106",
+      "like": 0,
+      "name": "Hitmonlee",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Double Kick",
+          "type": "Fighting"
+        },
+        {
+          "name": "Meditate",
+          "type": "Psychic"
+        },
+        {
+          "name": "Hi Jump Kick",
+          "type": "Fighting"
+        },
+        {
+          "name": "Foresight",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Special attack": 35,
+        "Special defense": 110,
+        "Speed": 87
+      }
+    },
+    {
+      "id": "107",
+      "like": 0,
+      "name": "Hitmonchan",
+      "types": [
+        "Fighting"
+      ],
+      "moves": [
+        {
+          "name": "Vacuum Wave",
+          "type": "Fighting"
+        },
+        {
+          "name": "Mach Punch",
+          "type": "Fighting"
+        },
+        {
+          "name": "Bulk Up",
+          "type": "Fighting"
+        },
+        {
+          "name": "Focus Blast",
+          "type": "Fighting"
+        }
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Special attack": 35,
+        "Special defense": 110,
+        "Speed": 76
+      }
+    },
+    {
+      "id": "108",
+      "like": 0,
+      "name": "Lickitung",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Lick",
+          "type": "Ghost"
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal"
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        },
+        {
+          "name": "Wrap",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Special attack": 60,
+        "Special defense": 75,
+        "Speed": 30
+      }
+    },
+    {
+      "id": "109",
+      "like": 0,
+      "name": "Koffing",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Poison Gas",
+          "type": "Poison"
+        },
+        {
+          "name": "Smog",
+          "type": "Poison"
+        },
+        {
+          "name": "Sludge",
+          "type": "Poison"
+        },
+        {
+          "name": "Self-Destruct",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Special attack": 60,
+        "Special defense": 45,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "110",
+      "like": 0,
+      "name": "Weezing",
+      "types": [
+        "Poison"
+      ],
+      "moves": [
+        {
+          "name": "Toxic",
+          "type": "Poison"
+        },
+        {
+          "name": "Haze",
+          "type": "Ice"
+        },
+        {
+          "name": "Sludge Bomb",
+          "type": "Poison"
+        },
+        {
+          "name": "Explosion",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Special attack": 85,
+        "Special defense": 70,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "111",
+      "like": 0,
+      "name": "Rhyhorn",
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "moves": [
+        {
+          "name": "Horn Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Horn Drill",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Special attack": 30,
+        "Special defense": 30,
+        "Speed": 25
+      }
+    },
+    {
+      "id": "112",
+      "like": 0,
+      "name": "Rhydon",
+      "types": [
+        "Ground",
+        "Rock"
+      ],
+      "moves": [
+        {
+          "name": "Horn Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        },
+        {
+          "name": "Fury Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Megahorn",
+          "type": "Bug"
+        }
+      ],
+      "base": {
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Special attack": 45,
+        "Special defense": 45,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "113",
+      "like": 0,
+      "name": "Chansey",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Pound",
+          "type": "Normal"
+        },
+        {
+          "name": "Growl",
+          "type": "Normal"
+        },
+        {
+          "name": "Soft-Boiled",
+          "type": "Normal"
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Special attack": 35,
+        "Special defense": 105,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "114",
+      "like": 0,
+      "name": "Tangela",
+      "types": [
+        "Grass"
+      ],
+      "moves": [
+        {
+          "name": "Mega Drain",
+          "type": "Grass"
+        },
+        {
+          "name": "Stun Spore",
+          "type": "Grass"
+        },
+        {
+          "name": "Sleep Powder",
+          "type": "Grass"
+        },
+        {
+          "name": "Solar Beam",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Special attack": 100,
+        "Special defense": 40,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "115",
+      "like": 0,
+      "name": "Kangaskhan",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Comet Punch",
+          "type": "Normal"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Special attack": 40,
+        "Special defense": 80,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "116",
+      "like": 0,
+      "name": "Horsea",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Bubble",
+          "type": "Water"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Special attack": 70,
+        "Special defense": 25,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "117",
+      "like": 0,
+      "name": "Seadra",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water"
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Dragon Pulse",
+          "type": "Dragon"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Special attack": 95,
+        "Special defense": 45,
+        "Speed": 85
+      }
+    },
+    {
+      "id": "118",
+      "like": 0,
+      "name": "Goldeen",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Supersonic",
+          "type": "Normal"
+        },
+        {
+          "name": "Twineedle",
+          "type": "Bug"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Special attack": 35,
+        "Special defense": 50,
+        "Speed": 63
+      }
+    },
+    {
+      "id": "119",
+      "like": 0,
+      "name": "Seaking",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        },
+        {
+          "name": "Double-Edge",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Special attack": 65,
+        "Special defense": 80,
+        "Speed": 68
+      }
+    },
+    {
+      "id": "120",
+      "like": 0,
+      "name": "Staryu",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Harden",
+          "type": "Normal"
+        },
+        {
+          "name": "Bubble Beam",
+          "type": "Water"
+        },
+        {
+          "name": "Minimize",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Special attack": 70,
+        "Special defense": 55,
+        "Speed": 85
+      }
+    },
+    {
+      "id": "121",
+      "like": 0,
+      "name": "Starmie",
+      "types": [
+        "Water",
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Rapid Spin",
+          "type": "Normal"
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Special attack": 100,
+        "Special defense": 85,
+        "Speed": 115
+      }
+    },
+    {
+      "id": "122",
+      "like": 0,
+      "name": "Mr. Mime",
+      "types": [
+        "Psychic",
+        "Fairy"
+      ],
+      "moves": [
+        {
+          "name": "Barrier",
+          "type": "Psychic"
+        },
+        {
+          "name": "Light Screen",
+          "type": "Psychic"
+        },
+        {
+          "name": "Reflect",
+          "type": "Psychic"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Special attack": 100,
+        "Special defense": 120,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "123",
+      "like": 0,
+      "name": "Scyther",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal"
+        },
+        {
+          "name": "Slash",
+          "type": "Normal"
+        },
+        {
+          "name": "Sword of the Plant",
+          "type": "Grass"
+        },
+        {
+          "name": "Aerial Ace",
+          "type": "Flying"
+        }
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Special attack": 55,
+        "Special defense": 80,
+        "Speed": 105
+      }
+    },
+    {
+      "id": "124",
+      "like": 0,
+      "name": "Jynx",
+      "types": [
+        "Ice",
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Sing",
+          "type": "Normal"
+        },
+        {
+          "name": "Disable",
+          "type": "Normal"
+        },
+        {
+          "name": "Ice Punch",
+          "type": "Ice"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Special attack": 115,
+        "Special defense": 95,
+        "Speed": 95
+      }
+    },
+    {
+      "id": "125",
+      "like": 0,
+      "name": "Electabuzz",
+      "types": [
+        "Electric"
+      ],
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric"
+        },
+        {
+          "name": "Thunder Punch",
+          "type": "Electric"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Special attack": 95,
+        "Special defense": 85,
+        "Speed": 105
+      }
+    },
+    {
+      "id": "126",
+      "like": 0,
+      "name": "Magmar",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire"
+        },
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Confuse Ray",
+          "type": "Ghost"
+        },
+        {
+          "name": "Fire Punch",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Special attack": 100,
+        "Special defense": 85,
+        "Speed": 93
+      }
+    },
+    {
+      "id": "127",
+      "like": 0,
+      "name": "Pinsir",
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Swords Dance",
+          "type": "Normal"
+        },
+        {
+          "name": "Slash",
+          "type": "Normal"
+        },
+        {
+          "name": "False Swipe",
+          "type": "Normal"
+        },
+        {
+          "name": "Sword of the Plant",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Special attack": 55,
+        "Special defense": 70,
+        "Speed": 85
+      }
+    },
+    {
+      "id": "128",
+      "like": 0,
+      "name": "Tauros",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        },
+        {
+          "name": "Stomp",
+          "type": "Normal"
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal"
+        },
+        {
+          "name": "Rage",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Special attack": 40,
+        "Special defense": 70,
+        "Speed": 110
+      }
+    },
+    {
+      "id": "129",
+      "like": 0,
+      "name": "Magikarp",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Splash",
+          "type": "Normal"
+        },
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Special attack": 15,
+        "Special defense": 20,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "130",
+      "like": 0,
+      "name": "Gyarados",
+      "types": [
+        "Water",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Surf",
+          "type": "Water"
+        },
+        {
+          "name": "Dragon Dance",
+          "type": "Dragon"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Special attack": 60,
+        "Special defense": 100,
+        "Speed": 81
+      }
+    },
+    {
+      "id": "131",
+      "like": 0,
+      "name": "Lapras",
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "moves": [
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        },
+        {
+          "name": "Rest",
+          "type": "Psychic"
+        },
+        {
+          "name": "Sheer Cold",
+          "type": "Ice"
+        }
+      ],
+      "base": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Special attack": 85,
+        "Special defense": 95,
+        "Speed": 60
+      }
+    },
+    {
+      "id": "132",
+      "like": 0,
+      "name": "Ditto",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Transform",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Special attack": 48,
+        "Special defense": 48,
+        "Speed": 48
+      }
+    },
+    {
+      "id": "133",
+      "like": 0,
+      "name": "Eevee",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Tackle",
+          "type": "Normal"
+        },
+        {
+          "name": "Tail Whip",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Special attack": 45,
+        "Special defense": 65,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "134",
+      "like": 0,
+      "name": "Vaporeon",
+      "types": [
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Bubble Beam",
+          "type": "Water"
+        },
+        {
+          "name": "Aurora Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Special attack": 110,
+        "Special defense": 95,
+        "Speed": 65
+      }
+    },
+    {
+      "id": "135",
+      "like": 0,
+      "name": "Jolteon",
+      "types": [
+        "Electric"
+      ],
+      "moves": [
+        {
+          "name": "Thunder Shock",
+          "type": "Electric"
+        },
+        {
+          "name": "Thunder Wave",
+          "type": "Electric"
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Special attack": 110,
+        "Special defense": 95,
+        "Speed": 130
+      }
+    },
+    {
+      "id": "136",
+      "like": 0,
+      "name": "Flareon",
+      "types": [
+        "Fire"
+      ],
+      "moves": [
+        {
+          "name": "Ember",
+          "type": "Fire"
+        },
+        {
+          "name": "Fire Spin",
+          "type": "Fire"
+        },
+        {
+          "name": "Flamethrower",
+          "type": "Fire"
+        },
+        {
+          "name": "Fire Blast",
+          "type": "Fire"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Special attack": 95,
+        "Special defense": 110,
+        "Speed": 65
+      }
+    },
+    {
+      "id": "137",
+      "like": 0,
+      "name": "Porygon",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Conversion",
+          "type": "Normal"
+        },
+        {
+          "name": "Sharpen",
+          "type": "Normal"
+        },
+        {
+          "name": "Psybeam",
+          "type": "Psychic"
+        },
+        {
+          "name": "Recover",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Special attack": 85,
+        "Special defense": 75,
+        "Speed": 40
+      }
+    },
+    {
+      "id": "138",
+      "like": 0,
+      "name": "Omanyte",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Constrict",
+          "type": "Normal"
+        },
+        {
+          "name": "Withdraw",
+          "type": "Water"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Spike Cannon",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Special attack": 90,
+        "Special defense": 55,
+        "Speed": 35
+      }
+    },
+    {
+      "id": "139",
+      "like": 0,
+      "name": "Omastar",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Water Gun",
+          "type": "Water"
+        },
+        {
+          "name": "Withdraw",
+          "type": "Water"
+        },
+        {
+          "name": "Bite",
+          "type": "Dark"
+        },
+        {
+          "name": "Hydro Pump",
+          "type": "Water"
+        }
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Special attack": 115,
+        "Special defense": 70,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "140",
+      "like": 0,
+      "name": "Kabuto",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Harden",
+          "type": "Normal"
+        },
+        {
+          "name": "Absorb",
+          "type": "Grass"
+        },
+        {
+          "name": "Slash",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Special attack": 55,
+        "Special defense": 45,
+        "Speed": 55
+      }
+    },
+    {
+      "id": "141",
+      "like": 0,
+      "name": "Kabutops",
+      "types": [
+        "Rock",
+        "Water"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Harden",
+          "type": "Normal"
+        },
+        {
+          "name": "Mega Kick",
+          "type": "Normal"
+        },
+        {
+          "name": "Sword of the Plant",
+          "type": "Grass"
+        }
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Special attack": 65,
+        "Special defense": 70,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "142",
+      "like": 0,
+      "name": "Aerodactyl",
+      "types": [
+        "Rock",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Wing Attack",
+          "type": "Flying"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        },
+        {
+          "name": "Quick Attack",
+          "type": "Normal"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Special attack": 60,
+        "Special defense": 75,
+        "Speed": 130
+      }
+    },
+    {
+      "id": "143",
+      "like": 0,
+      "name": "Snorlax",
+      "types": [
+        "Normal"
+      ],
+      "moves": [
+        {
+          "name": "Scratch",
+          "type": "Normal"
+        },
+        {
+          "name": "Amnesia",
+          "type": "Psychic"
+        },
+        {
+          "name": "Lick",
+          "type": "Ghost"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Special attack": 65,
+        "Special defense": 110,
+        "Speed": 30
+      }
+    },
+    {
+      "id": "144",
+      "like": 0,
+      "name": "Articuno",
+      "types": [
+        "Ice",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Ice Beam",
+          "type": "Ice"
+        },
+        {
+          "name": "Blizzard",
+          "type": "Ice"
+        },
+        {
+          "name": "Fly",
+          "type": "Flying"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Special attack": 95,
+        "Special defense": 125,
+        "Speed": 85
+      }
+    },
+    {
+      "id": "145",
+      "like": 0,
+      "name": "Zapdos",
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Thunder Shock",
+          "type": "Electric"
+        },
+        {
+          "name": "Thunderbolt",
+          "type": "Electric"
+        },
+        {
+          "name": "Thunder",
+          "type": "Electric"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Special attack": 125,
+        "Special defense": 90,
+        "Speed": 100
+      }
+    },
+    {
+      "id": "146",
+      "like": 0,
+      "name": "Moltres",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Peck",
+          "type": "Flying"
+        },
+        {
+          "name": "Fire Spin",
+          "type": "Fire"
+        },
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        },
+        {
+          "name": "Sky Attack",
+          "type": "Flying"
+        }
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Special attack": 125,
+        "Special defense": 85,
+        "Speed": 90
+      }
+    },
+    {
+      "id": "147",
+      "like": 0,
+      "name": "Dratini",
+      "types": [
+        "Dragon"
+      ],
+      "moves": [
+        {
+          "name": "Leer",
+          "type": "Normal"
+        },
+        {
+          "name": "Twister",
+          "type": "Dragon"
+        },
+        {
+          "name": "Dragon Rage",
+          "type": "Dragon"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Special attack": 50,
+        "Special defense": 50,
+        "Speed": 50
+      }
+    },
+    {
+      "id": "148",
+      "like": 0,
+      "name": "Dragonair",
+      "types": [
+        "Dragon"
+      ],
+      "moves": [
+        {
+          "name": "Agility",
+          "type": "Psychic"
+        },
+        {
+          "name": "Slam",
+          "type": "Normal"
+        },
+        {
+          "name": "Dragon Rush",
+          "type": "Dragon"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Special attack": 70,
+        "Special defense": 70,
+        "Speed": 70
+      }
+    },
+    {
+      "id": "149",
+      "like": 0,
+      "name": "Dragonite",
+      "types": [
+        "Dragon",
+        "Flying"
+      ],
+      "moves": [
+        {
+          "name": "Fire Blast",
+          "type": "Fire"
+        },
+        {
+          "name": "Hyper Beam",
+          "type": "Normal"
+        },
+        {
+          "name": "Fly",
+          "type": "Flying"
+        },
+        {
+          "name": "Outrage",
+          "type": "Dragon"
+        }
+      ],
+      "base": {
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Special attack": 100,
+        "Special defense": 100,
+        "Speed": 80
+      }
+    },
+    {
+      "id": "150",
+      "like": 0,
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Confusion",
+          "type": "Psychic"
+        },
+        {
+          "name": "Disable",
+          "type": "Normal"
+        },
+        {
+          "name": "Swift",
+          "type": "Normal"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        }
+      ],
+      "base": {
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Special attack": 154,
+        "Special defense": 90,
+        "Speed": 130
+      }
+    },
+    {
+      "id": "151",
+      "like": 0,
+      "name": "Mew",
+      "types": [
+        "Psychic"
+      ],
+      "moves": [
+        {
+          "name": "Pound",
+          "type": "Normal"
+        },
+        {
+          "name": "Transform",
+          "type": "Normal"
+        },
+        {
+          "name": "Psychic",
+          "type": "Psychic"
+        },
+        {
+          "name": "Metronome",
+          "type": "Normal"
+        }
+      ],
+      "base": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Special attack": 100,
+        "Special defense": 100,
+        "Speed": 100
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "pokemonId": 1,
+      "author": "Mister Pokpok",
+      "content": "This pokemon is sick , it's one of my favorite ever"
+    },
+    {
+      "id": "2",
+      "pokemonId": 2,
+      "author": "Ash Ketchum",
+      "content": "This evolution is so nice"
+    },
+    {
+      "id": "3",
+      "pokemonId": 3,
+      "author": "Misty",
+      "content": "Venusaur is siiiiick"
+    },
+    {
+      "id": "440d",
+      "pokemonId": "3",
+      "content": "Whhhat",
+      "author": "me"
+    },
+    {
+      "id": "b0bc",
+      "pokemonId": "3",
+      "content": "Whhhatniceee",
+      "author": "me"
+    },
+    {
+      "id": "44d1",
+      "pokemonId": "3",
+      "content": "coool",
+      "author": "me"
+    },
+    {
+      "id": "324a",
+      "pokemonId": "3",
+      "content": "ok",
+      "author": "me"
+    },
+    {
+      "id": "1fd8",
+      "pokemonId": "3",
+      "content": "okkk",
+      "author": "me"
+    },
+    {
+      "id": "cabc",
+      "pokemonId": "1",
+      "content": "Cool",
+      "author": "me"
+    },
+    {
+      "id": "c870",
+      "pokemonId": "1",
+      "content": "Cool",
+      "author": "me"
+    },
+    {
+      "id": "e46b",
+      "pokemonId": "54",
+      "content": "I love this one",
+      "author": "me"
+    },
+    {
+      "id": "981f",
+      "pokemonId": "26",
+      "content": "This is a cool pokemon",
+      "author": "me"
+    },
+    {
+      "id": "3cb7",
+      "pokemonId": "26",
+      "content": "This is a greeeeat pokemon !",
+      "author": "me"
+    },
+    {
+      "id": "9c2f",
+      "pokemonId": "52",
+      "content": "This is a cool pokemon",
+      "author": "me"
+    },
+    {
+      "id": "740d",
+      "pokemonId": 3,
+      "content": "This is a test",
+      "author": "Me"
+    },
+    {
+      "id": "3fd1",
+      "pokemonId": "1",
+      "content": "Super",
+      "author": "Me"
+    },
+    {
+      "id": "7293",
+      "pokemonId": "1",
+      "content": "Nice",
+      "author": "Me"
+    },
+    {
+      "id": "ef19",
+      "pokemonId": "1",
+      "content": "Nice",
+      "author": "Me"
+    },
+    {
+      "id": "3587",
+      "pokemonId": "1",
+      "content": "What",
+      "author": "Me"
+    },
+    {
+      "id": "9873",
+      "pokemonId": "1",
+      "content": "testing",
+      "author": "Me"
+    },
+    {
+      "id": "5687",
+      "pokemonId": "1",
+      "content": "Whao",
+      "author": "Me"
+    },
+    {
+      "id": "24ce",
+      "pokemonId": "1",
+      "content": "Whao",
+      "author": "Me"
+    },
+    {
+      "id": "d47c",
+      "pokemonId": "1",
+      "content": "New review",
+      "author": "Me"
+    },
+    {
+      "id": "bf70",
+      "pokemonId": "1",
+      "content": "New review 2",
+      "author": "Me"
+    },
+    {
+      "id": "2eb7",
+      "pokemonId": "1",
+      "content": "Nice",
+      "author": "Me"
+    },
+    {
+      "id": "75ba",
+      "pokemonId": "1",
+      "content": "Super",
+      "author": "Me"
+    },
+    {
+      "id": "5078",
+      "pokemonId": "1",
+      "content": "Super",
+      "author": "Me"
+    },
+    {
+      "id": "b156",
+      "pokemonId": "1",
+      "content": "Super1",
+      "author": "Me"
+    },
+    {
+      "id": "6ac2",
+      "pokemonId": "1",
+      "content": "what",
+      "author": "Me"
+    },
+    {
+      "id": "5a39",
+      "pokemonId": "1",
+      "content": "nice",
+      "author": "Me"
+    },
+    {
+      "id": "3493",
+      "pokemonId": "1",
+      "content": "gogo",
+      "author": "Me"
+    },
+    {
+      "id": "374f",
+      "pokemonId": "1",
+      "content": "gogoa",
+      "author": "Me"
+    },
+    {
+      "id": "63ba",
+      "pokemonId": "1",
+      "content": "gogoaaa",
+      "author": "Me"
+    },
+    {
+      "id": "3efc",
+      "pokemonId": "1",
+      "content": "gogoaaa",
+      "author": "Me"
+    },
+    {
+      "id": "dd17",
+      "pokemonId": "1",
+      "content": "gogoaaa",
+      "author": "Me"
+    },
+    {
+      "id": "26dd",
+      "pokemonId": "1",
+      "content": "allez",
+      "author": "Me"
+    },
+    {
+      "id": "4a6d",
+      "pokemonId": "1",
+      "content": "aaaa",
+      "author": "Me"
+    },
+    {
+      "id": "91eb",
+      "pokemonId": "1",
+      "content": "zzzz",
+      "author": "Me"
+    },
+    {
+      "id": "46bb",
+      "pokemonId": "1",
+      "content": "zzzzzzzeze",
+      "author": "Me"
+    },
+    {
+      "id": "7a09",
+      "pokemonId": "1",
+      "content": "go",
+      "author": "Me"
+    },
+    {
+      "id": "6d98",
+      "pokemonId": "1",
+      "content": "aapl",
+      "author": "Me"
+    },
+    {
+      "id": "1378",
+      "pokemonId": "1",
+      "content": "nice",
+      "author": "Me"
+    },
+    {
+      "id": "2377",
+      "pokemonId": "1",
+      "content": "nicess",
+      "author": "Me"
+    },
+    {
+      "id": "0a9b",
+      "pokemonId": "1",
+      "content": "aaaaa",
+      "author": "Me"
+    },
+    {
+      "id": "77fb",
+      "pokemonId": "1",
+      "content": "aaaaazzzz",
+      "author": "Me"
+    },
+    {
+      "id": "0e9a",
+      "pokemonId": "1",
+      "content": "azeaze",
+      "author": "Me"
+    },
+    {
+      "id": "2298",
+      "pokemonId": "1",
+      "content": "mi",
+      "author": "Me"
+    },
+    {
+      "id": "10b3",
+      "pokemonId": "1",
+      "content": "miaaa",
+      "author": "Me"
+    },
+    {
+      "id": "0f6c",
+      "pokemonId": "1",
+      "content": "flunch",
+      "author": "Me"
+    },
+    {
+      "id": "c6f4",
+      "pokemonId": "1",
+      "content": "flunch1",
+      "author": "Me"
+    },
+    {
+      "id": "b2c7",
+      "pokemonId": "1",
+      "content": "misu1",
+      "author": "Me"
+    },
+    {
+      "id": "a0cd",
+      "pokemonId": "1",
+      "content": "misu2",
+      "author": "Me"
+    },
+    {
+      "id": "4eb9",
+      "pokemonId": "1",
+      "content": "misu3",
+      "author": "Me"
+    },
+    {
+      "id": "76f2",
+      "pokemonId": "1",
+      "content": "misu4",
+      "author": "Me"
+    },
+    {
+      "id": "8123",
+      "pokemonId": "1",
+      "content": "misu5",
+      "author": "Me"
+    },
+    {
+      "id": "5209",
+      "pokemonId": "1",
+      "content": "yazo",
+      "author": "Me"
+    },
+    {
+      "id": "eb04",
+      "pokemonId": "1",
+      "content": "yazouuu",
+      "author": "Me"
+    },
+    {
+      "id": "6f16",
+      "pokemonId": "1",
+      "content": "yazouuuaaa1",
+      "author": "Me"
+    },
+    {
+      "id": "8986",
+      "pokemonId": "1",
+      "content": "22",
+      "author": "Me"
+    },
+    {
+      "id": "c815",
+      "pokemonId": "1",
+      "content": "223",
+      "author": "Me"
+    },
+    {
+      "id": "27a4",
+      "pokemonId": "1",
+      "content": "2234",
+      "author": "Me"
+    },
+    {
+      "id": "f22b",
+      "pokemonId": "1",
+      "content": "chunk",
+      "author": "Me"
+    },
+    {
+      "id": "1565",
+      "pokemonId": "1",
+      "content": "dog",
+      "author": "Me"
+    },
+    {
+      "id": "e8f0",
+      "pokemonId": "1",
+      "content": "doga",
+      "author": "Me"
+    },
+    {
+      "id": "cc81",
+      "pokemonId": "1",
+      "content": "dogaaa",
+      "author": "Me"
+    },
+    {
+      "id": "d9ec",
+      "pokemonId": "1",
+      "content": "go",
+      "author": "Me"
+    },
+    {
+      "id": "0858",
+      "pokemonId": "1",
+      "content": "goaaaa",
+      "author": "Me"
+    },
+    {
+      "id": "8a7d",
+      "pokemonId": "1",
+      "content": "goaaaa1",
+      "author": "Me"
+    },
+    {
+      "id": "a0ee",
+      "pokemonId": "1",
+      "content": "goaaaa1Z",
+      "author": "Me"
+    },
+    {
+      "id": "4e6c",
+      "pokemonId": "1",
+      "content": "aaagoaaaa1Z",
+      "author": "Me"
+    },
+    {
+      "id": "90d7",
+      "pokemonId": "1",
+      "content": "aaagoaaaa1Zazeza",
+      "author": "Me"
+    },
+    {
+      "id": "09ff",
+      "pokemonId": "1",
+      "content": "aaagoaaaa1Zazezadd",
+      "author": "Me"
+    },
+    {
+      "id": "8049",
+      "pokemonId": "1",
+      "content": "aaagoaaaa1Zazezaddazeza",
+      "author": "Me"
+    },
+    {
+      "id": "6736",
+      "pokemonId": "1",
+      "content": "a",
+      "author": "Me"
+    },
+    {
+      "id": "4011",
+      "pokemonId": "1",
+      "content": "aazez",
+      "author": "Me"
+    },
+    {
+      "id": "e2cf",
+      "pokemonId": "1",
+      "content": "gogogo",
+      "author": "Me"
+    },
+    {
+      "id": "74db",
+      "pokemonId": "1",
+      "content": "gogogo2",
+      "author": "Me"
+    },
+    {
+      "id": "b6cb",
+      "pokemonId": "1",
+      "content": "azea",
+      "author": "Me"
+    },
+    {
+      "id": "6bee",
+      "pokemonId": "1",
+      "content": "aaaa",
+      "author": "Me"
+    },
+    {
+      "id": "f63a",
+      "pokemonId": "1",
+      "content": "aze",
+      "author": "Me"
+    },
+    {
+      "id": "522e",
+      "pokemonId": "1",
+      "content": "azeazeaz",
+      "author": "Me"
+    },
+    {
+      "id": "4c68",
+      "pokemonId": "1",
+      "content": "1111",
+      "author": "Me"
+    },
+    {
+      "id": "e16c",
+      "pokemonId": "1",
+      "content": "221111",
+      "author": "Me"
+    },
+    {
+      "id": "8cf7",
+      "pokemonId": "1",
+      "content": "aeae",
+      "author": "Me"
+    },
+    {
+      "id": "cab7",
+      "pokemonId": "1",
+      "content": "aeaeazeaz",
+      "author": "Me"
+    },
+    {
+      "id": "abdd",
+      "pokemonId": "1",
+      "content": "aze",
+      "author": "Me"
+    },
+    {
+      "id": "1e25",
+      "pokemonId": "1",
+      "content": "Nexttt",
+      "author": "Me"
+    },
+    {
+      "id": "2a59",
+      "pokemonId": "1",
+      "content": "next go",
+      "author": "Me"
+    },
+    {
+      "id": "1866",
+      "pokemonId": "1",
+      "content": "next goooo",
+      "author": "Me"
+    },
+    {
+      "id": "8df5",
+      "pokemonId": "1",
+      "content": "Wazoo",
+      "author": "Me"
+    },
+    {
+      "id": "5a0c",
+      "pokemonId": "1",
+      "content": "Wazoooo",
+      "author": "Me"
+    },
+    {
+      "id": "6354",
+      "pokemonId": "1",
+      "content": "Wazooooaa",
+      "author": "Me"
+    },
+    {
+      "id": "0b93",
+      "pokemonId": "1",
+      "content": "Seriously",
+      "author": "Me"
+    },
+    {
+      "id": "129d",
+      "pokemonId": "1",
+      "content": "Seriously",
+      "author": "Me"
+    },
+    {
+      "id": "e5d6",
+      "pokemonId": "1",
+      "content": "This is sick",
+      "author": "Me"
+    },
+    {
+      "id": "2e13",
+      "pokemonId": "1",
+      "content": "Look at that",
+      "author": "Me"
+    },
+    {
+      "id": "73b9",
+      "pokemonId": "1",
+      "content": "Look at that !!!!!!!",
+      "author": "Me"
+    },
+    {
+      "id": "b023",
+      "pokemonId": "1",
+      "content": "11",
+      "author": "Me"
+    },
+    {
+      "id": "2cb9",
+      "pokemonId": "1",
+      "content": "222",
+      "author": "Me"
+    },
+    {
+      "id": "1dbd",
+      "pokemonId": "1",
+      "content": "333",
+      "author": "Me"
+    },
+    {
+      "id": "9b7f",
+      "pokemonId": "1",
+      "content": "4444",
+      "author": "Me"
+    },
+    {
+      "id": "5ef2",
+      "pokemonId": "1",
+      "content": "is that right",
+      "author": "Me"
+    },
+    {
+      "id": "3221",
+      "pokemonId": "1",
+      "content": "5555",
+      "author": "Me"
+    },
+    {
+      "id": "2e14",
+      "pokemonId": "1",
+      "content": "aaazzzz",
+      "author": "Me"
+    },
+    {
+      "id": "b74e",
+      "pokemonId": "1",
+      "content": "what",
+      "author": "Me"
+    },
+    {
+      "id": "1a67",
+      "pokemonId": "1",
+      "content": "Cool ",
+      "author": "Me"
+    },
+    {
+      "id": "dd68",
+      "pokemonId": "1",
+      "content": "New super review",
+      "author": "Me"
+    },
+    {
+      "id": "c1ed",
+      "pokemonId": "1",
+      "content": "New super review 2",
+      "author": "Me"
+    },
+    {
+      "id": "0bb5",
+      "pokemonId": "1",
+      "content": "Let'sgo",
+      "author": "Me"
+    },
+    {
+      "id": "7e07",
+      "pokemonId": "1",
+      "content": "nice",
+      "author": "Me"
+    },
+    {
+      "id": "1383",
+      "pokemonId": "1",
+      "content": "Go",
+      "author": "Me"
+    },
+    {
+      "id": "f605",
+      "pokemonId": "1",
+      "content": "Go",
+      "author": "Me"
+    },
+    {
+      "id": "2186",
+      "pokemonId": "1",
+      "content": "Hello",
+      "author": "Me"
+    },
+    {
+      "id": "eb84",
+      "pokemonId": "1",
+      "content": "Something !",
+      "author": "Me"
+    },
+    {
+      "id": "7154",
+      "pokemonId": "1",
+      "content": "Another thing",
+      "author": "Me"
+    },
+    {
+      "id": "433b",
+      "pokemonId": "1",
+      "content": "Another thing !!!",
+      "author": "Me"
+    },
+    {
+      "id": "36a9",
+      "pokemonId": "1",
+      "content": "Another thing !!!!!!!!",
+      "author": "Me"
+    },
+    {
+      "id": "a2f7",
+      "pokemonId": "1",
+      "content": "azeazeazezaeazeaz",
+      "author": "Me"
+    },
+    {
+      "id": "e2ad",
+      "pokemonId": "1",
+      "content": "azeazeazezaeazeazazezaeza",
+      "author": "Me"
+    },
+    {
+      "id": "1995",
+      "pokemonId": "1",
+      "content": "ouch",
+      "author": "Me"
+    },
+    {
+      "id": "9aa8",
+      "pokemonId": "1",
+      "content": "hufge",
+      "author": "Me"
+    },
+    {
+      "id": "0bb1",
+      "pokemonId": "1",
+      "content": "aaaze",
+      "author": "Me"
+    },
+    {
+      "id": "7560",
+      "pokemonId": "1",
+      "content": "zzzz",
+      "author": "Me"
+    },
+    {
+      "id": "48bf",
+      "pokemonId": "1",
+      "content": "azeazeazeaz",
+      "author": "Me"
+    },
+    {
+      "id": "7246",
+      "pokemonId": "1",
+      "content": "opopopopopopo",
+      "author": "Me"
+    },
+    {
+      "id": "54fb",
+      "pokemonId": "1",
+      "content": "opopopopopopoazezae",
+      "author": "Me"
+    },
+    {
+      "id": "6c24",
+      "pokemonId": "1",
+      "content": "aa",
+      "author": "Me"
+    },
+    {
+      "id": "297d",
+      "pokemonId": "1",
+      "content": "aazzz",
+      "author": "Me"
+    },
+    {
+      "id": "28cf",
+      "pokemonId": "1",
+      "content": "aazzzpppp",
+      "author": "Me"
+    },
+    {
+      "id": "a6d2",
+      "pokemonId": "1",
+      "content": "So cool",
+      "author": "Me"
+    },
+    {
+      "id": "b6d2",
+      "pokemonId": "1",
+      "content": "So nice",
+      "author": "Me"
+    },
+    {
+      "id": "bc1d",
+      "pokemonId": "1",
+      "content": "So niceazeaze",
+      "author": "Me"
+    },
+    {
+      "id": "d27f",
+      "pokemonId": "1",
+      "content": "So niceazeazeeazaz",
+      "author": "Me"
+    },
+    {
+      "id": "2efe",
+      "pokemonId": "1",
+      "content": "Soooo ?",
+      "author": "Me"
+    },
+    {
+      "id": "22cf",
+      "pokemonId": "1",
+      "content": "Nice",
+      "author": "Me"
+    },
+    {
+      "id": "018f",
+      "pokemonId": "1",
+      "content": "So",
+      "author": "Me"
+    },
+    {
+      "id": "7f68",
+      "pokemonId": "1",
+      "content": "Nice review",
+      "author": "Me"
+    },
+    {
+      "id": "159e",
+      "pokemonId": "1",
+      "content": "Nice reee",
+      "author": "Me"
+    },
+    {
+      "id": "7075",
+      "pokemonId": 3,
+      "content": "This is new review",
+      "author": "Me"
+    },
+    {
+      "id": "1ec5",
+      "pokemonId": 3,
+      "content": "This is new review",
+      "author": "Me"
+    },
+    {
+      "id": "5852",
+      "pokemonId": 3,
+      "content": "This is new review",
+      "author": "Me"
+    },
+    {
+      "id": "6993",
+      "pokemonId": "3",
+      "content": "Test 1",
+      "author": "Me"
+    },
+    {
+      "id": "2f1a",
+      "pokemonId": "3",
+      "content": "Test 1",
+      "author": "Me"
+    },
+    {
+      "id": "bbfc",
+      "pokemonId": "3",
+      "content": "Test 2",
+      "author": "Me"
+    },
+    {
+      "id": "23fc",
+      "pokemonId": "3",
+      "content": "Tes 3",
+      "author": "Me"
+    },
+    {
+      "id": "fc2d",
+      "pokemonId": "3",
+      "content": "Test 4",
+      "author": "Me"
+    },
+    {
+      "id": "39ab",
+      "pokemonId": "3",
+      "content": "Test 5",
+      "author": "Me"
+    },
+    {
+      "id": "adf5",
+      "pokemonId": "2",
+      "content": "Test 1",
+      "author": "Me"
+    },
+    {
+      "id": "b297",
+      "pokemonId": "2",
+      "content": "Test 2",
+      "author": "Me"
+    },
+    {
+      "id": "f817",
+      "pokemonId": "2",
+      "content": "Test 3",
+      "author": "Me"
+    },
+    {
+      "id": "57f4",
+      "pokemonId": "2",
+      "content": "Test New",
+      "author": "Me"
+    },
+    {
+      "id": "5c2b",
+      "pokemonId": "2",
+      "content": "New update",
+      "author": "Me"
+    },
+    {
+      "id": "c8af",
+      "pokemonId": "2",
+      "content": "Review ",
+      "author": "Me"
+    },
+    {
+      "id": "7612",
+      "pokemonId": "2",
+      "content": "Amsterdam ",
+      "author": "Me"
+    },
+    {
+      "id": "8567",
+      "pokemonId": "1",
+      "content": "Amsterdam",
+      "author": "Me"
+    },
+    {
+      "id": "6ac3",
+      "pokemonId": "1",
+      "content": "Hello",
+      "author": "Me"
+    },
+    {
+      "id": "7039",
+      "pokemonId": "1",
+      "content": "Optimistic",
+      "author": "Me"
+    },
+    {
+      "id": "fcc1",
+      "pokemonId": "1",
+      "content": "New review",
+      "author": "Me"
+    },
+    {
+      "id": "8e2f",
+      "pokemonId": "1",
+      "content": "Latest review",
+      "author": "Me"
+    },
+    {
+      "id": "5a46",
+      "pokemonId": "1",
+      "content": "Reviewer",
+      "author": "Me"
+    },
+    {
+      "id": "5d44",
+      "pokemonId": "1",
+      "content": "Hello",
+      "author": "Me"
+    },
+    {
+      "id": "7d66",
+      "pokemonId": "1",
+      "content": "One more",
+      "author": "Me"
+    },
+    {
+      "id": "42eb",
+      "pokemonId": "1",
+      "content": "New one!",
+      "author": "Me"
+    },
+    {
+      "id": "29e2",
+      "pokemonId": "1",
+      "content": "Next level!",
+      "author": "Me"
+    },
+    {
+      "id": "900f",
+      "pokemonId": "2",
+      "content": "Hello there",
+      "author": "Me"
+    },
+    {
+      "id": "3070",
+      "pokemonId": "2",
+      "content": "my review!!",
+      "author": "Me"
+    },
+    {
+      "id": "f5c3",
+      "pokemonId": "2",
+      "content": "Latest review",
+      "author": "Me"
+    },
+    {
+      "id": "78c6",
+      "pokemonId": "2",
+      "content": "Successful!",
+      "author": "Me"
+    },
+    {
+      "id": "f760",
+      "pokemonId": "2",
+      "content": "Grass, Poison",
+      "author": "Me"
+    },
+    {
+      "id": "efbe",
+      "pokemonId": "2",
+      "content": "Ivysaur",
+      "author": "Me"
+    },
+    {
+      "id": "425c",
+      "pokemonId": "2",
+      "content": "Review data",
+      "author": "Me"
+    },
+    {
+      "id": "3ea2",
+      "pokemonId": "2",
+      "content": "Hello new review",
+      "author": "Me"
+    },
+    {
+      "id": "b662",
+      "pokemonId": "4",
+      "content": "Hello",
+      "author": "Me"
+    },
+    {
+      "id": "ef63",
+      "pokemonId": "5",
+      "content": "Cute Charmeleon",
+      "author": "Me"
+    },
+    {
+      "id": "1bca",
+      "pokemonId": "19",
+      "content": "Cute one!",
+      "author": "Me"
+    },
+    {
+      "id": "d217",
+      "pokemonId": "28",
+      "content": "Hello there!",
+      "author": "Me"
+    }
+  ]
+}
